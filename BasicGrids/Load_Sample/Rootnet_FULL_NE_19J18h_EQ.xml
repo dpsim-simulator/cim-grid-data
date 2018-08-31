@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2012/CIM-schema-cim16#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:entsoe="http://entsoe.eu/Secretariat/ProfileExtension/2#" xmlns:neplan="http://www.neplan.ch#">
+  <md:FullModel rdf:about="urn:uuid:3fe443ee-4ce5-4edd-b90d-637106fe4f89">
+    <md:Model.created>2017-10-19T18:04:13</md:Model.created>
+    <neplan:Model.createdBy>NEPLAN by Busarello + Cott + Partner AG, Switzerland</neplan:Model.createdBy>
+    <md:Model.scenarioTime>2017-10-19T18:04:11</md:Model.scenarioTime>
+    <md:Model.version>7</md:Model.version>
+    <md:Model.description>NEPLAN</md:Model.description>
+    <md:Model.modelingAuthoritySet>FULL</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://iec.ch/TC57/61970-452/Equipment/3</md:Model.profile>
+  </md:FullModel>
+  <cim:NameType rdf:ID="_b4aa8cae-011e-49be-8f99-ae7d1ceb4408">
+    <cim:NameType.name>description</cim:NameType.name>
+  </cim:NameType>
+  <cim:BaseVoltage rdf:ID="_4201aaae-3116-461a-90ec-7eeffd9340be">
+    <cim:BaseVoltage.nominalVoltage>20.00</cim:BaseVoltage.nominalVoltage>
+  </cim:BaseVoltage>
+  <cim:VoltageLevel rdf:ID="_d56d1acc-b7b4-4391-987a-6cc7dcab9d59">
+    <cim:IdentifiedObject.name>41</cim:IdentifiedObject.name>
+    <cim:VoltageLevel.Substation rdf:resource="#_3FA2-2E-F1-31323239373839323835"/>
+    <cim:VoltageLevel.BaseVoltage rdf:resource="#_4201aaae-3116-461a-90ec-7eeffd9340be"/>
+  </cim:VoltageLevel>
+  <cim:Substation rdf:ID="_3FA2-2E-F1-31323239373839323835">
+    <cim:IdentifiedObject.name>N0</cim:IdentifiedObject.name>
+    <cim:Substation.Region rdf:resource="#_2e7dc594-f8f6-4446-a778-e3af1844a19e"/>
+  </cim:Substation>
+  <cim:GeographicalRegion rdf:ID="_7568ac03-167d-483e-9782-ef6dbab59566">
+    <cim:IdentifiedObject.name>Area 1</cim:IdentifiedObject.name>
+  </cim:GeographicalRegion>
+  <cim:SubGeographicalRegion rdf:ID="_2e7dc594-f8f6-4446-a778-e3af1844a19e">
+    <cim:IdentifiedObject.name>Zone 1</cim:IdentifiedObject.name>
+    <cim:SubGeographicalRegion.Region rdf:resource="#_7568ac03-167d-483e-9782-ef6dbab59566"/>
+  </cim:SubGeographicalRegion>
+  <cim:OperationalLimitType rdf:ID="_c79c73c7-6fea-406a-b1cc-3b87f9922c33">
+    <cim:IdentifiedObject.name>PATL</cim:IdentifiedObject.name>
+    <cim:OperationalLimitType.acceptableDuration>45000</cim:OperationalLimitType.acceptableDuration>
+    <cim:OperationalLimitType.direction rdf:resource="http://iec.ch/TC57/2012/CIM-schema-cim16#OperationalLimitDirectionKind.absoluteValue"/>
+  </cim:OperationalLimitType>
+  <cim:OperationalLimitType rdf:ID="_321f74d1-9910-4671-8dbe-953dd2c737bd">
+    <cim:IdentifiedObject.name>TATL</cim:IdentifiedObject.name>
+    <cim:OperationalLimitType.acceptableDuration>180</cim:OperationalLimitType.acceptableDuration>
+    <cim:OperationalLimitType.direction rdf:resource="http://iec.ch/TC57/2012/CIM-schema-cim16#OperationalLimitDirectionKind.absoluteValue"/>
+  </cim:OperationalLimitType>
+  <cim:OperationalLimitType rdf:ID="_f078fff4-1433-4e32-8ce1-1487294c8089">
+    <cim:IdentifiedObject.name>TATL</cim:IdentifiedObject.name>
+    <cim:OperationalLimitType.acceptableDuration>60</cim:OperationalLimitType.acceptableDuration>
+    <cim:OperationalLimitType.direction rdf:resource="http://iec.ch/TC57/2012/CIM-schema-cim16#OperationalLimitDirectionKind.absoluteValue"/>
+  </cim:OperationalLimitType>
+  <cim:EnergyConsumer rdf:ID="PQ0">
+    <cim:IdentifiedObject.name>PQ0</cim:IdentifiedObject.name>
+    <cim:Equipment.aggregate>false</cim:Equipment.aggregate>
+    <cim:Equipment.EquipmentContainer rdf:resource="#_d56d1acc-b7b4-4391-987a-6cc7dcab9d59"/>
+  </cim:EnergyConsumer>
+  <cim:Terminal rdf:ID="E-1229789291">
+    <cim:IdentifiedObject.name>PQ0_0</cim:IdentifiedObject.name>
+    <cim:Terminal.sequenceNumber>1</cim:Terminal.sequenceNumber>
+    <cim:Terminal.ConductingEquipment rdf:resource="#PQ0"/>
+  </cim:Terminal>
+</rdf:RDF>
