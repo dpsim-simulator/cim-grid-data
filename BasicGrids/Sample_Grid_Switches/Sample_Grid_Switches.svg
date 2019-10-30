@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg baseProfile='full' height='100.000000%' version='1.1' viewBox='0.000000 0.000000 3525.000000 1056.000000' width='100.000000%' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+
+
+
+  <g id='Page Layer'>
+    <polygon fill='none' points='2.583222 2224.920354, 2.583222 -253.097345, 3507.099328 -253.097345, 3507.099328 2224.920354' stroke='#c0c0c0' stroke-width='7.749667' />
+  </g>
+  <g id='Net elements'>
+    <g id='ExampleCIMTopologyProcessor\Breaker6.ElmCoup'>
+      <polyline fill='none' points='1911.584487 340.594395, 1911.584487 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1911.584489 392.219764, 1911.584487 418.032448' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1911.584486 340.588495, 1911.584487 350.913569' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1911.584489 392.225664, 1911.584488 376.791154' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1911.584487 350.913569, 1923.983955 376.791153' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1916.756837 371.575516, 1906.412139 381.900591' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1916.756837 381.900590, 1906.412139 371.575517' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line3.ElmLne'>
+      <polyline fill='none' points='2634.886725 521.283186, 2634.886725 418.032448' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2634.886725 521.283186, 2634.886725 624.533923' stroke='#808080' stroke-width='1.771352' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line2.ElmLne'>
+      <polyline fill='none' points='1911.584487 521.283186, 1911.584487 624.533923' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1911.584487 521.283186, 1911.584487 418.032448' stroke='#808080' stroke-width='1.771352' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker7.ElmCoup'>
+      <polyline fill='none' points='2634.886725 676.159292, 2634.886725 624.533923' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2634.886725 727.784661, 2634.886725 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2634.886725 676.153392, 2634.886725 686.478466' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2634.886725 727.790561, 2634.886725 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2634.886725 686.478466, 2647.286192 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2640.059074 707.140413, 2629.714376 717.465487' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2640.059074 717.465487, 2629.714376 707.140413' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker8.ElmCoup'>
+      <polyline fill='none' points='2634.886725 366.407080, 2634.886725 418.032448' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2634.886725 314.781711, 2634.886725 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2634.886725 366.412980, 2634.886725 356.087906' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2634.886725 314.775811, 2634.886725 330.210321' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2634.886725 356.087906, 2622.487258 330.210321' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2629.714376 335.425958, 2640.059074 325.100885' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2629.714376 325.100885, 2640.059074 335.425958' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker5.ElmCoup'>
+      <polyline fill='none' points='1911.584487 676.159292, 1911.584487 624.533923' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1911.584487 727.784661, 1911.584487 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1911.584487 676.153392, 1911.584487 686.478466' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1911.584487 727.790561, 1911.584487 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1911.584487 686.478466, 1911.584487 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1916.756836 707.140413, 1906.412137 717.465487' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1916.756836 717.465487, 1906.412137 707.140413' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker3.ElmCoup'>
+      <polyline fill='none' points='981.624466 340.594395, 981.624466 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='981.624468 392.219764, 981.624466 418.032448' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='981.624466 340.588495, 981.624466 350.913569' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='981.624468 392.225664, 981.624468 376.791154' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='981.624466 350.913569, 981.624468 376.791154' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='986.796816 371.575516, 976.452119 381.900591' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='986.796817 381.900590, 976.452118 371.575517' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker4.ElmCoup'>
+      <polyline fill='none' points='981.624466 676.159292, 981.624466 624.533923' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='981.624466 727.784661, 981.624466 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='981.624466 676.153392, 981.624466 686.478466' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='981.624466 727.790561, 981.624466 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='981.624466 686.478466, 981.624466 712.356051' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='986.796815 707.140413, 976.452117 717.465487' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='986.796815 717.465487, 976.452117 707.140413' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line1.ElmLne'>
+      <polyline fill='none' points='981.624466 521.283186, 981.624466 624.533923' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='981.624466 521.283186, 981.624466 418.032448' stroke='#808080' stroke-width='1.771352' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker9.ElmCoup'>
+      <polyline fill='none' points='1343.275585 908.473451, 1859.920041 908.473451, 1859.920041 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1291.611140 908.473451, 981.624466 908.473451, 981.624466 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1343.281490 908.473451, 1332.948601 908.473451' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1291.605235 908.473451, 1307.051428 908.473451' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1332.948601 908.473451, 1307.051428 920.863540' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1312.271013 913.641888, 1301.938124 903.305014' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1301.938124 913.641888, 1312.271013 903.305014' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker10.ElmCoup'>
+      <polyline fill='none' points='2221.571160 908.473451, 2634.886725 908.473451, 2634.886725 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2169.906714 908.473451, 1911.584487 908.473451, 1911.584487 779.410029' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2221.577065 908.473451, 2211.244175 908.473451' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2169.900810 908.473451, 2185.347003 908.473451' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2211.244175 908.473451, 2185.347003 908.473451' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2190.566588 913.641888, 2180.233699 903.305014' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2180.233699 913.641888, 2190.566588 903.305014' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker2.ElmCoup'>
+      <polyline fill='none' points='2247.403383 159.905605, 2583.222279 159.905605, 2583.222279 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2195.738937 159.905605, 1963.248932 159.905605, 1963.248932 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='2247.409287 159.905605, 2237.076398 159.905605' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2195.733033 159.905605, 2211.179226 159.905605' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2237.076398 159.905605, 2211.179226 172.295693' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2216.398811 165.074042, 2206.065922 154.737168' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='2206.065922 165.074042, 2216.398811 154.737168' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker1.ElmCoup'>
+      <polyline fill='none' points='1369.107808 159.905605, 1859.920041 159.905605, 1859.920041 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1317.443362 159.905605, 1033.288912 159.905605, 1033.288912 263.156342' stroke='#808080' stroke-width='1.771352' />
+      <polyline fill='none' points='1369.113712 159.905605, 1358.780823 159.905605' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1317.437458 159.905605, 1332.883651 159.905605' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1358.780823 159.905605, 1332.883651 159.905605' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1338.103236 165.074042, 1327.770347 154.737168' stroke='#808080' stroke-width='1.417082' />
+      <polyline fill='none' points='1327.770347 165.074042, 1338.103236 154.737168' stroke='#808080' stroke-width='1.417082' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal(10).ElmTerm'>
+      <ellipse cx='2634.886725' cy='624.533923' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal(9).ElmTerm'>
+      <ellipse cx='2634.886725' cy='418.032448' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal(8).ElmTerm'>
+      <ellipse cx='1911.584487' cy='624.533923' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal.ElmTerm'>
+      <ellipse cx='1911.584487' cy='418.032448' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal(7).ElmTerm'>
+      <ellipse cx='981.624466' cy='624.533923' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Terminal(6).ElmTerm'>
+      <ellipse cx='981.624466' cy='418.032448' fill='#808080' rx='7.675860' ry='7.670055' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus6.ElmTerm'>
+      <polyline fill='none' points='2479.834343 779.410029, 2789.939106 779.410029' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus5.ElmTerm'>
+      <polyline fill='none' points='1756.532105 779.410029, 2066.636868 779.410029' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus4.ElmTerm'>
+      <polyline fill='none' points='826.572084 779.410029, 1136.676848 779.410029' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus3.ElmTerm'>
+      <polyline fill='none' points='2479.834343 263.156342, 2789.939106 263.156342' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus2.ElmTerm'>
+      <polyline fill='none' points='1756.532105 263.156342, 2066.636868 263.156342' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus1.ElmTerm'>
+      <polyline fill='none' points='878.236530 263.156342, 1188.341293 263.156342' stroke='#808080' stroke-width='7.758523' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker6.ElmCoup::LineAttribs'>
+      <ellipse cx='1911.584487' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker7.ElmCoup::LineAttribs'>
+      <ellipse cx='2634.886725' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker8.ElmCoup::LineAttribs'>
+      <ellipse cx='2634.886725' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker5.ElmCoup::LineAttribs'>
+      <ellipse cx='1911.584487' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker3.ElmCoup::LineAttribs'>
+      <ellipse cx='981.624466' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker4.ElmCoup::LineAttribs'>
+      <ellipse cx='981.624466' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker9.ElmCoup::LineAttribs'>
+      <ellipse cx='1859.920041' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+      <ellipse cx='981.624466' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker10.ElmCoup::LineAttribs'>
+      <ellipse cx='2634.886725' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+      <ellipse cx='1911.584487' cy='779.410029' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker2.ElmCoup::LineAttribs'>
+      <ellipse cx='2583.222279' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+      <ellipse cx='1963.248932' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker1.ElmCoup::LineAttribs'>
+      <ellipse cx='1859.920041' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+      <ellipse cx='1033.288912' cy='263.156342' fill='#808080' rx='8.266311' ry='8.260059' stroke='#808080' stroke-width='0.500000' />
+    </g>
+  </g>
+  <g id='Labels'>
+    <g id='ExampleCIMTopologyProcessor\Breaker6.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1836.367069,409.852747)' x='1836.367069' y='430.040504'>Breaker6</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1858.814889,368.384135)' x='1858.814889' y='388.571893'> </text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line3.ElmLne::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2570.002195,547.242087)' x='2570.002195' y='567.429845'>Line3</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2592.450015,536.750029)' x='2592.450015' y='556.937786'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line2.ElmLne::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1869.164756,536.750029)' x='1869.164756' y='556.937786'>0,0</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1846.716936,547.242087)' x='1846.716936' y='567.429845'>Line2</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker7.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2559.669306,745.417641)' x='2559.669306' y='765.605399'>Breaker7</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2582.117126,703.949030)' x='2582.117126' y='724.136788'> </text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker8.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2582.134105,342.571449)' x='2582.134105' y='362.759207'> </text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,2559.686285,384.040060)' x='2559.686285' y='404.227818'>Breaker8</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker5.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1836.367068,745.417641)' x='1836.367068' y='765.605399'>Breaker5</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,1858.814888,717.438820)' x='1858.814888' y='737.626577'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker3.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,906.407049,409.852747)' x='906.407049' y='430.040504'>Breaker3</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,928.854869,381.873925)' x='928.854869' y='402.061682'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker4.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,906.407048,745.417641)' x='906.407048' y='765.605399'>Breaker4</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,928.854868,717.438820)' x='928.854868' y='737.626577'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line1.ElmLne::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,939.204735,536.750029)' x='939.204735' y='556.937786'>0,0</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' transform='rotate(270.000000,916.756915,545.743222)' x='916.756915' y='565.930979'>Line1</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker9.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='1273.964812' y='853.500682'>Breaker9</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='1315.464812' y='875.931523'> </text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker10.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='2146.260387' y='853.500682'>Breaker10</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='2180.260387' y='875.931523'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker2.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='2178.092610' y='104.932835'>Breaker2</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='2219.592610' y='127.363676'> </text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Breaker1.ElmCoup::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='1301.297035' y='104.932835'>Breaker1</text>
+      <text fill='#808080' font-family='Arial' font-size='22.430841' text-anchor='start' x='1327.797035' y='127.363676'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus6.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='2403.143721' y='788.590442'>Bus6</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus5.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='1679.841483' y='788.590442'>Bus5</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus4.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='749.881462' y='788.590442'>Bus4</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus3.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='2403.143721' y='272.336754'>Bus3</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus2.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='1680.841483' y='272.336754'>Bus2</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus1.ElmTerm::NameBox 0'>
+      <text fill='#808080' font-family='Arial' font-size='30.694836' text-anchor='start' x='806.545908' y='272.336754'>Bus1</text>
+    </g>
+  </g>
+  <g id='Results'>
+    <g id='ExampleCIMTopologyProcessor\Line3.ElmLne::ResultBox 1'>
+      <polygon fill='#ffffff' points='2695.727597 505.978439, 2780.186203 505.978439, 2780.186203 441.755398, 2695.727597 441.755398' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2723.956900' y='462.533441'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2723.956900' y='481.422571'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2712.956900' y='500.311700'>0,000</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line3.ElmLne::ResultBox 2'>
+      <polygon fill='#ffffff' points='2757.510765 557.176279, 2673.052158 557.176279, 2673.052158 621.399320, 2757.510765 621.399320' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2690.281461' y='615.746868'>0,000</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2701.281461' y='596.857738'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2701.281461' y='577.968609'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line2.ElmLne::ResultBox 1'>
+      <polygon fill='#ffffff' points='2025.962912 548.940941, 1941.504306 548.940941, 1941.504306 613.163981, 2025.962912 613.163981' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1958.733609' y='607.511529'>0,000</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1969.733609' y='588.622400'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1969.733609' y='569.733270'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line2.ElmLne::ResultBox 2'>
+      <polygon fill='#ffffff' points='1931.197289 483.331258, 2015.655895 483.331258, 2015.655895 419.108217, 1931.197289 419.108217' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1959.426592' y='439.886260'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1959.426592' y='458.775389'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1948.426592' y='477.664519'>0,000</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line1.ElmLne::ResultBox 1'>
+      <polygon fill='#ffffff' points='1128.985348 542.764437, 1044.526742 542.764437, 1044.526742 606.987477, 1128.985348 606.987477' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1061.756045' y='601.335025'>0,000</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1072.756045' y='582.445896'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1072.756045' y='563.556766'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Line1.ElmLne::ResultBox 2'>
+      <polygon fill='#ffffff' points='1042.465338 489.507762, 1126.923945 489.507762, 1126.923945 425.284721, 1042.465338 425.284721' stroke='none' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1070.694641' y='446.062764'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1070.694641' y='464.951893'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1059.694641' y='483.841023'>0,000</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus6.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='2479.893388 846.217289, 2564.351994 846.217289, 2564.351994 781.994248, 2479.893388 781.994248' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2508.122691' y='802.772291'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2502.622691' y='821.661420'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2508.122691' y='840.550550'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus5.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='1756.591150 846.217289, 1841.049756 846.217289, 1841.049756 781.994248, 1756.591150 781.994248' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1784.820453' y='802.772291'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1779.320453' y='821.661420'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1784.820453' y='840.550550'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus4.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='826.631129 846.217289, 911.089736 846.217289, 911.089736 781.994248, 826.631129 781.994248' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='854.860432' y='802.772291'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='849.360432' y='821.661420'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='854.860432' y='840.550550'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus3.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='2479.893388 329.963602, 2564.351994 329.963602, 2564.351994 265.740561, 2479.893388 265.740561' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2508.122691' y='286.518603'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2502.622691' y='305.407733'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='2508.122691' y='324.296863'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus2.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='1527.775360 323.787098, 1612.233967 323.787098, 1612.233967 259.564057, 1527.775360 259.564057' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1556.004663' y='280.342099'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1550.504663' y='299.231229'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='1556.004663' y='318.120359'>0,0</text>
+    </g>
+    <g id='ExampleCIMTopologyProcessor\Bus1.ElmTerm::ResultBox 1'>
+      <polygon fill='#ffffff' points='709.260487 342.316610, 793.719093 342.316610, 793.719093 278.093569, 709.260487 278.093569' stroke='#808080' stroke-width='0.500000' />
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='737.489790' y='298.871611'>0,0</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='731.989790' y='317.760741'>0,00</text>
+      <text fill='#000000' font-family='Arial' font-size='18.889130' text-anchor='start' x='737.489790' y='336.649871'>0,0</text>
+    </g>
+  </g>
+
+</svg>
