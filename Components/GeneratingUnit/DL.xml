@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:6ddafd60-de0d-11e2-8f45-b8f6b1180b6d">
+    <md:Model.scenarioTime>2030-01-02T09:00:00</md:Model.scenarioTime>
+    <md:Model.created>2014-10-22T09:01:25.830</md:Model.created>
+    <md:Model.description>CGMES Conformity Assessment: Mini Grid Type 1 Test Configuration. The model is owned by ENTSO-E and is provided by ENTSO-E "as it is". To the fullest extent permitted by law, ENTSO-E shall not be liable for any damages of any kind arising out of the use of the model (including any of its subsequent modifications). ENTSO-E neither warrants, nor represents that the use of the model will not infringe the rights of third parties. Any use of the model shall include a reference to ENTSO-E. ENTSO-E web site is the only official source of information related to the model.</md:Model.description>
+    <md:Model.version>4</md:Model.version>
+    <md:Model.profile>http://entsoe.eu/CIM/DiagramLayout/3/1</md:Model.profile>
+    <md:Model.modelingAuthoritySet>http://A1.de/Planning/ENTSOE/2</md:Model.modelingAuthoritySet>
+    <md:Model.Supersedes rdf:resource="urn:uuid:6fdafd60-de0d-11e2-8f45-b8f6b1180b6d" />
+    <md:Model.DependentOn rdf:resource="urn:uuid:2e99cbd2-9a39-11e0-aa80-0800200c9a66" />
+    <md:Model.DependentOn rdf:resource="urn:uuid:2t99cbd4-9a39-11e0-aa80-0800200c9a66" />
+    <md:Model.DependentOn rdf:resource="urn:uuid:2399cbd1-9a39-11e0-aa80-0800200c9a66" />
+  </md:FullModel>
+  <cim:DiagramObject rdf:ID="_c0497521-d35d-6686-6e3a-f408094864c3">
+    <cim:IdentifiedObject.name>G1</cim:IdentifiedObject.name>
+    <cim:DiagramObject.offsetX>3.96825385</cim:DiagramObject.offsetX>
+    <cim:DiagramObject.offsetY>3.96825385</cim:DiagramObject.offsetY>
+    <cim:DiagramObject.rotation>270</cim:DiagramObject.rotation>
+    <cim:DiagramObject.IdentifiedObject rdf:resource="#_ca67be42-750e-4ebf-bfaa-24d446e59a22" />
+    <cim:DiagramObject.Diagram rdf:resource="#_e410e806-f410-3450-b721-4a38b5d75314" />
+    <cim:DiagramObject.DiagramObjectStyle rdf:resource="#_4eaf50bb-c04b-89f2-05f5-e56e744eec7a" />
+  </cim:DiagramObject>
+  <cim:DiagramObjectPoint rdf:ID="_62a40e1d-9880-4e00-e4ce-08d235dad846">
+    <cim:DiagramObjectPoint.sequenceNumber>0</cim:DiagramObjectPoint.sequenceNumber>
+    <cim:DiagramObjectPoint.xPosition>424.673737</cim:DiagramObjectPoint.xPosition>
+    <cim:DiagramObjectPoint.yPosition>85.80246</cim:DiagramObjectPoint.yPosition>
+    <cim:DiagramObjectPoint.DiagramObject rdf:resource="#_c0497521-d35d-6686-6e3a-f408094864c3" />
+  </cim:DiagramObjectPoint>
+  <cim:Diagram rdf:ID="_e410e806-f410-3450-b721-4a38b5d75314">
+    <cim:IdentifiedObject.name>Diagram</cim:IdentifiedObject.name>
+    <cim:Diagram.orientation rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#OrientationKind.negative" />
+  </cim:Diagram>
+  <cim:DiagramObject rdf:ID="_bbd45e6e-4616-44aa-491c-edb2b55133fe">
+    <cim:IdentifiedObject.name>G1_0</cim:IdentifiedObject.name>
+    <cim:DiagramObject.rotation>0</cim:DiagramObject.rotation>
+    <cim:DiagramObject.IdentifiedObject rdf:resource="#_3434b50d-677d-4ad5-96d7-6c7d1be611e6" />
+    <cim:DiagramObject.Diagram rdf:resource="#_e410e806-f410-3450-b721-4a38b5d75314" />
+    <cim:DiagramObject.DiagramObjectStyle rdf:resource="#_4eaf50bb-c04b-89f2-05f5-e56e744eec7a" />
+  </cim:DiagramObject>
+  <cim:DiagramObjectPoint rdf:ID="_fc214ea7-9d8e-7c24-21f1-f9cbec106e97">
+    <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+    <cim:DiagramObjectPoint.xPosition>406.023</cim:DiagramObjectPoint.xPosition>
+    <cim:DiagramObjectPoint.yPosition>86.59611</cim:DiagramObjectPoint.yPosition>
+    <cim:DiagramObjectPoint.DiagramObject rdf:resource="#_bbd45e6e-4616-44aa-491c-edb2b55133fe" />
+  </cim:DiagramObjectPoint>
+  <cim:DiagramObjectPoint rdf:ID="_2d729222-60f4-6e05-84de-03e480f45d6f">
+    <cim:DiagramObjectPoint.sequenceNumber>2</cim:DiagramObjectPoint.sequenceNumber>
+    <cim:DiagramObjectPoint.xPosition>420.965576</cim:DiagramObjectPoint.xPosition>
+    <cim:DiagramObjectPoint.yPosition>86.544075</cim:DiagramObjectPoint.yPosition>
+    <cim:DiagramObjectPoint.DiagramObject rdf:resource="#_bbd45e6e-4616-44aa-491c-edb2b55133fe" />
+  </cim:DiagramObjectPoint>
+</rdf:RDF>

@@ -1,0 +1,80 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2012/CIM-schema-cim16#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:entsoe="http://entsoe.eu/Secretariat/ProfileExtension/2#">
+  <md:FullModel xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="urn:uuid:a478519c-0824-4c9c-b57d-538dc9819750">
+    <md:Model.created>2016-7-3T10:05:43 AM</md:Model.created>
+    <md:Model.scenarioTime>2016-7-3T10:05:43 AM</md:Model.scenarioTime>
+    <md:Model.version>7</md:Model.version>
+    <md:Model.description>CoSi Front End</md:Model.description>
+    <md:Model.modelingAuthoritySet>FULL</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://iec.ch/TC57/61970-456/StateVariables/3</md:Model.profile>
+  </md:FullModel>
+  <cim:BaseVoltage rdf:ID="_35cf638d-9a9d-4ae5-ae90-2f01ef898cb6">
+    <cim:BaseVoltage.nominalVoltage>10.50</cim:BaseVoltage.nominalVoltage>
+    <cim:IdentifiedObject.description>Base Voltage Level</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>10.50 kV</cim:IdentifiedObject.name>
+  </cim:BaseVoltage>
+  <cim:BusbarSection rdf:ID="_64901aec-5a8a-4bcb-8ca7-a3ddbfcd0e6c">
+    <cim:IdentifiedObject.name>BE-Busbar_1</cim:IdentifiedObject.name>
+    <cim:Equipment.EquipmentContainer rdf:resource="#_469df5f7-058f-4451-a998-57a48e8a56fe"/>
+    <cim:BusbarSection.ipMax>0e+000</cim:BusbarSection.ipMax>
+  </cim:BusbarSection>
+  <cim:Diagram rdf:ID="_09ac66ff-304c-4213-b7b8-097f678a89cb">
+    <cim:IdentifiedObject.name>Diagram 0</cim:IdentifiedObject.name>
+    <cim:Diagram.orientation rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#OrientationKind.negative"/>
+  </cim:Diagram>
+  <cim:DiagramObject rdf:ID="_4054f0e8-c43a-41bc-8f2b-d11b0f3a7bf8">
+    <cim:IdentifiedObject.name>name 30</cim:IdentifiedObject.name>
+    <cim:DiagramObject.rotation>0</cim:DiagramObject.rotation>
+    <cim:DiagramObject.IdentifiedObject rdf:resource="#_e44141af-f1dc-44d3-bfa4-b674e5c953d7"/>
+    <cim:DiagramObject.Diagram rdf:resource="#_09ac66ff-304c-4213-b7b8-097f678a89cb"/>
+  </cim:DiagramObject>
+  <cim:DiagramObjectPoint rdf:ID="_1c22a399-3ef5-4b98-bdb2-b9b8a3e43491">
+    <cim:DiagramObjectPoint.sequenceNumber>1</cim:DiagramObjectPoint.sequenceNumber>
+    <cim:DiagramObjectPoint.xPosition>356.000000</cim:DiagramObjectPoint.xPosition>
+    <cim:DiagramObjectPoint.yPosition>82.000000</cim:DiagramObjectPoint.yPosition>
+    <cim:DiagramObjectPoint.DiagramObject rdf:resource="#_4054f0e8-c43a-41bc-8f2b-d11b0f3a7bf8"/>
+  </cim:DiagramObjectPoint>
+  <cim:DiagramObjectPoint rdf:ID="_fc8cc337-6142-410b-9532-2921df9b4b71">
+    <cim:DiagramObjectPoint.sequenceNumber>2</cim:DiagramObjectPoint.sequenceNumber>
+    <cim:DiagramObjectPoint.xPosition>356.000000</cim:DiagramObjectPoint.xPosition>
+    <cim:DiagramObjectPoint.yPosition>178.000000</cim:DiagramObjectPoint.yPosition>
+    <cim:DiagramObjectPoint.DiagramObject rdf:resource="#_4054f0e8-c43a-41bc-8f2b-d11b0f3a7bf8"/>
+  </cim:DiagramObjectPoint>
+  <cim:LinearShuntCompensator rdf:ID="_002b0a40-3957-46db-b84a-30420083558f">
+    <cim:IdentifiedObject.name>BE_S2</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.description>another shunt</cim:IdentifiedObject.description>
+    <cim:ShuntCompensator.normalSections>1</cim:ShuntCompensator.normalSections>
+    <cim:ShuntCompensator.maximumSections>1</cim:ShuntCompensator.maximumSections>
+    <cim:LinearShuntCompensator.bPerSection>0.000346</cim:LinearShuntCompensator.bPerSection>
+    <cim:LinearShuntCompensator.gPerSection>7e-006</cim:LinearShuntCompensator.gPerSection>
+    <cim:LinearShuntCompensator.b0PerSection>-0e+000</cim:LinearShuntCompensator.b0PerSection>
+    <cim:LinearShuntCompensator.g0PerSection>0e+000</cim:LinearShuntCompensator.g0PerSection>
+    <cim:ShuntCompensator.nomU>380.000000</cim:ShuntCompensator.nomU>
+    <cim:RegulatingCondEq.RegulatingControl rdf:resource="#_67971e8d-518a-408f-9e59-c7601da9a989"/>
+    <cim:Equipment.aggregate>false</cim:Equipment.aggregate>
+    <cim:Equipment.EquipmentContainer rdf:resource="#_469df5f7-058f-4451-a998-57a48e8a56fe"/>
+  </cim:LinearShuntCompensator>
+  <cim:SvVoltage rdf:ID="_d3dd2951-f423-4f79-baea-5a21ca2dd671">
+    <cim:SvVoltage.v>412.989001</cim:SvVoltage.v>
+    <cim:SvVoltage.angle>-6.780710</cim:SvVoltage.angle>
+    <cim:SvVoltage.TopologicalNode rdf:resource="#_e44141af-f1dc-44d3-bfa4-b674e5c953d7"/>
+  </cim:SvVoltage>
+  <cim:Terminal rdf:ID="_fa9e0f4d-8a2f-45e1-9e36-3611600d1c94">
+    <cim:IdentifiedObject.name>BE-Busbar_1_Busbar_Section</cim:IdentifiedObject.name>
+    <cim:ACDCTerminal.sequenceNumber>1</cim:ACDCTerminal.sequenceNumber>
+    <cim:Terminal.phases rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#PhaseCode.ABC"/>
+    <cim:Terminal.ConductingEquipment rdf:resource="#_64901aec-5a8a-4bcb-8ca7-a3ddbfcd0e6c"/>
+    <cim:IdentifiedObject.description>Busbar Section</cim:IdentifiedObject.description>
+  </cim:Terminal>
+  <cim:TopologicalNode rdf:ID="_e44141af-f1dc-44d3-bfa4-b674e5c953d7">
+    <cim:IdentifiedObject.name>BE_TR_BUS2</cim:IdentifiedObject.name>
+    <cim:TopologicalNode.BaseVoltage rdf:resource="#_35cf638d-9a9d-4ae5-ae90-2f01ef898cb6"/>
+    <cim:TopologicalNode.ConnectivityNodeContainer rdf:resource="#_469df5f7-058f-4451-a998-57a48e8a56fe"/>
+  </cim:TopologicalNode>
+  <cim:VoltageLevel rdf:ID="_469df5f7-058f-4451-a998-57a48e8a56fe">
+    <cim:IdentifiedObject.name>380.0</cim:IdentifiedObject.name>
+    <cim:VoltageLevel.lowVoltageLimit>342.000000</cim:VoltageLevel.lowVoltageLimit>
+    <cim:VoltageLevel.highVoltageLimit>418.000000</cim:VoltageLevel.highVoltageLimit>
+    <cim:VoltageLevel.Substation rdf:resource="#_37e14a0f-5e34-4647-a062-8bfd9305fa9d"/>
+    <cim:VoltageLevel.BaseVoltage rdf:resource="#_35cf638d-9a9d-4ae5-ae90-2f01ef898cb6"/>
+  </cim:VoltageLevel>
+</rdf:RDF>

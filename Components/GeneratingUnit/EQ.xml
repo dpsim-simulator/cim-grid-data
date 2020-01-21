@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:2e99cbd2-9a39-11e0-aa80-0800200c9a66">
+    <md:Model.scenarioTime>2030-01-02T09:00:00</md:Model.scenarioTime>
+    <md:Model.created>2015-02-05T12:20:50.830</md:Model.created>
+    <md:Model.description>CGMES Conformity Assessment: Mini Grid Type 1 Test Configuration. The model is owned by ENTSO-E and is provided by ENTSO-E "as it is". To the fullest extent permitted by law, ENTSO-E shall not be liable for any damages of any kind arising out of the use of the model (including any of its subsequent modifications). ENTSO-E neither warrants, nor represents that the use of the model will not infringe the rights of third parties. Any use of the model shall include a reference to ENTSO-E. ENTSO-E web site is the only official source of information related to the model.</md:Model.description>
+    <md:Model.version>4</md:Model.version>
+    <md:Model.profile>http://entsoe.eu/CIM/EquipmentCore/3/1</md:Model.profile>
+    <md:Model.profile>http://entsoe.eu/CIM/EquipmentShortCircuit/3/1</md:Model.profile>
+    <md:Model.modelingAuthoritySet>http://A1.de/Planning/ENTSOE/2</md:Model.modelingAuthoritySet>
+    <md:Model.Supersedes rdf:resource="urn:uuid:2399cbd2-9a39-11e0-aa80-0800200c9a66_EU" />
+	<md:Model.DependentOn rdf:resource="urn:uuid:2399cbd0-9a39-11e0-aa80-0800200c9a66" />
+  </md:FullModel>
+  <cim:ThermalGeneratingUnit rdf:ID="_a318334b-6a8d-40cd-9ce2-4526873d5504">
+    <cim:IdentifiedObject.description>Gen-2</cim:IdentifiedObject.description>
+    <cim:IdentifiedObject.name>G1</cim:IdentifiedObject.name>
+    <cim:Equipment.aggregate>false</cim:Equipment.aggregate>
+    <cim:Equipment.EquipmentContainer rdf:resource="#_974565b1-ac55-4901-9f48-afc7ef5486df" />
+    <cim:GeneratingUnit.initialP>0</cim:GeneratingUnit.initialP>
+    <cim:GeneratingUnit.maxOperatingP>90</cim:GeneratingUnit.maxOperatingP>
+    <cim:GeneratingUnit.minOperatingP>0</cim:GeneratingUnit.minOperatingP>
+  </cim:ThermalGeneratingUnit>
+  <cim:SynchronousMachine rdf:ID="_ca67be42-750e-4ebf-bfaa-24d446e59a22">
+    <cim:IdentifiedObject.name>G1</cim:IdentifiedObject.name>
+    <cim:Equipment.EquipmentContainer rdf:resource="#_6f8ef715-bc0a-47d7-a74e-27f17234f590" />
+    <cim:RotatingMachine.ratedPowerFactor>0.85</cim:RotatingMachine.ratedPowerFactor>
+    <cim:RotatingMachine.ratedS>150</cim:RotatingMachine.ratedS>
+    <cim:RotatingMachine.ratedU>21</cim:RotatingMachine.ratedU>
+    <cim:RotatingMachine.GeneratingUnit rdf:resource="#_a318334b-6a8d-40cd-9ce2-4526873d5504" />
+    <cim:SynchronousMachine.earthing>false</cim:SynchronousMachine.earthing>
+    <cim:SynchronousMachine.maxQ>79</cim:SynchronousMachine.maxQ>
+    <cim:SynchronousMachine.minQ>-79</cim:SynchronousMachine.minQ>
+    <cim:SynchronousMachine.qPercent>100</cim:SynchronousMachine.qPercent>
+    <cim:SynchronousMachine.r0>0</cim:SynchronousMachine.r0>
+    <cim:SynchronousMachine.r2>0.00068</cim:SynchronousMachine.r2>
+    <cim:SynchronousMachine.satDirectSubtransX>0.14</cim:SynchronousMachine.satDirectSubtransX>
+    <cim:SynchronousMachine.satDirectSyncX>1.8</cim:SynchronousMachine.satDirectSyncX>
+    <cim:SynchronousMachine.satDirectTransX>1.8</cim:SynchronousMachine.satDirectTransX>
+    <cim:SynchronousMachine.shortCircuitRotorType rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#ShortCircuitRotorKind.turboSeries1" />
+    <cim:SynchronousMachine.type rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#SynchronousMachineKind.generator" />
+    <cim:SynchronousMachine.r>0.002</cim:SynchronousMachine.r>
+    <cim:SynchronousMachine.x0>0.1</cim:SynchronousMachine.x0>
+    <cim:SynchronousMachine.x2>0.14</cim:SynchronousMachine.x2>
+  </cim:SynchronousMachine>
+  <cim:Terminal rdf:ID="_3434b50d-677d-4ad5-96d7-6c7d1be611e6">
+    <cim:IdentifiedObject.name>G1_0</cim:IdentifiedObject.name>
+    <cim:ACDCTerminal.sequenceNumber>1</cim:ACDCTerminal.sequenceNumber>
+    <cim:Terminal.phases rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#PhaseCode.ABC" />
+    <cim:Terminal.ConductingEquipment rdf:resource="#_ca67be42-750e-4ebf-bfaa-24d446e59a22" />
+  </cim:Terminal>
+</rdf:RDF>
