@@ -1,3 +1,0 @@
-Export information:
-- Tool: PowerFactory 2020
-- Export way: @Yifei: Please shortly describe here how you exported the grid...

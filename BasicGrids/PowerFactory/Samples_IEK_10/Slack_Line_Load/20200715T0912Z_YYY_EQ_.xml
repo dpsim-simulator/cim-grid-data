@@ -14,7 +14,7 @@
     <cim:VoltageLimit.value>115.5</cim:VoltageLimit.value>
   </cim:VoltageLimit>
   <cim:VoltageLimit rdf:ID="_29501248-4a62-9126-1802-5c3fdd4fda07">
-    <cim:IdentifiedObject.name>high limit for Terminal(1)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>high limit for Terminal_1</cim:IdentifiedObject.name>
     <cim:OperationalLimit.OperationalLimitSet rdf:resource="#_a68666db-dc32-03a8-7875-c7ea9d9ef044" />
     <cim:OperationalLimit.OperationalLimitType rdf:resource="#_58234e5b-56b2-8848-1b17-48a62acabede" />
     <cim:VoltageLimit.value>115.5</cim:VoltageLimit.value>
@@ -28,7 +28,7 @@
     <cim:OperationalLimitSet.Terminal rdf:resource="#_e3b41f60-2621-a353-f870-6970065b3c38" />
   </cim:OperationalLimitSet>
   <cim:OperationalLimitSet rdf:ID="_a68666db-dc32-03a8-7875-c7ea9d9ef044">
-    <cim:IdentifiedObject.name>Voltage limits for Terminal(1)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Voltage limits for Terminal_1</cim:IdentifiedObject.name>
     <cim:OperationalLimitSet.Terminal rdf:resource="#_e3b41f60-2621-a353-f870-6970065b3c38" />
   </cim:OperationalLimitSet>
   <cim:OperationalLimitSet rdf:ID="_3748153f-0af7-11d4-c75a-07ebca072192">
@@ -104,7 +104,7 @@
     <cim:VoltageLevel.Substation rdf:resource="#_6f463650-066f-21a7-9819-27a422c628e1" />
   </cim:VoltageLevel>
   <cim:VoltageLevel rdf:ID="_b25a7044-77f3-2b3d-dd03-71999cfbf8a2">
-    <cim:IdentifiedObject.name>Terminal(1)</cim:IdentifiedObject.name>
+    <cim:IdentifiedObject.name>Terminal_1</cim:IdentifiedObject.name>
     <cim:VoltageLevel.BaseVoltage rdf:resource="#_fab9349c-6d71-6439-7e27-0877877757ba" />
     <cim:VoltageLevel.Substation rdf:resource="#_6f463650-066f-21a7-9819-27a422c628e1" />
   </cim:VoltageLevel>
