@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with PowerFactory 20.0.4 (digcimdb.dll ServicePack 0) -->
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:9d137661-2221-4e91-ae50-224298bf683b">
+    <md:Model.DependentOn rdf:resource="urn:uuid:2c21d174-653d-45bb-b019-048f12b3f772" />
+    <md:Model.created>2020-07-15T09:30:21Z</md:Model.created>
+    <md:Model.modelingAuthoritySet>test_load_cim_export</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://entsoe.eu/CIM/SteadyStateHypothesis/1/1</md:Model.profile>
+    <md:Model.scenarioTime>2020-07-15T09:12:17Z</md:Model.scenarioTime>
+  </md:FullModel>
+  <cim:Terminal rdf:about="#_915e4119-6c63-0c94-6fc1-8c65ea623f78">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_47eea0f0-1f99-9f85-277e-46be090d4356">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_19565dcc-fb52-639d-e02d-36ca0a20c554">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_e3b41f60-2621-a353-f870-6970065b3c38">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:ConformLoad rdf:about="#_7020c4df-b073-4785-8655-5b03f4040ccb">
+    <cim:EnergyConsumer.p>5.</cim:EnergyConsumer.p>
+    <cim:EnergyConsumer.q>0.</cim:EnergyConsumer.q>
+  </cim:ConformLoad>
+  <cim:ExternalNetworkInjection rdf:about="#_a9553790-f58f-4c6a-a397-8a2f0c2b178b">
+    <cim:ExternalNetworkInjection.p>0.</cim:ExternalNetworkInjection.p>
+    <cim:ExternalNetworkInjection.q>0.</cim:ExternalNetworkInjection.q>
+    <cim:ExternalNetworkInjection.referencePriority>0</cim:ExternalNetworkInjection.referencePriority>
+    <cim:RegulatingCondEq.controlEnabled>true</cim:RegulatingCondEq.controlEnabled>
+  </cim:ExternalNetworkInjection>
+  <cim:RegulatingControl rdf:about="#_3fb7a92a-00c7-adde-b2c0-4890609cf8a6">
+    <cim:RegulatingControl.discrete>false</cim:RegulatingControl.discrete>
+    <cim:RegulatingControl.enabled>true</cim:RegulatingControl.enabled>
+    <cim:RegulatingControl.targetValue>110.</cim:RegulatingControl.targetValue>
+    <cim:RegulatingControl.targetValueUnitMultiplier rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#UnitMultiplier.k" />
+  </cim:RegulatingControl>
+</rdf:RDF>
