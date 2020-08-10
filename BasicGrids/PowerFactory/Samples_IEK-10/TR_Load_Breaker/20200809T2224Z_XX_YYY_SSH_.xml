@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with PowerFactory 20.0.4 (digcimdb.dll ServicePack 0) -->
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:a36f4e91-d289-447c-9c48-cad76ace1c3d">
+    <md:Model.DependentOn rdf:resource="urn:uuid:ff6f9714-1f7a-40f2-9d70-94c687519f31" />
+    <md:Model.created>2020-08-09T23:02:23Z</md:Model.created>
+    <md:Model.modelingAuthoritySet>test_open_breaker</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://entsoe.eu/CIM/SteadyStateHypothesis/1/1</md:Model.profile>
+    <md:Model.scenarioTime>2020-08-09T22:24:58Z</md:Model.scenarioTime>
+  </md:FullModel>
+  <cim:Terminal rdf:about="#_05a3df8a-0c7b-8bc8-c445-a82eb1e4e065">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_d2c70e92-90fa-0eba-9324-74f8600a4891">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_6963f8cf-daae-592c-61c2-a2183cc5e306">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_d7c79267-453b-243a-6242-80786aa40ab1">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_c35f47b5-0a87-14ed-db8c-edd34f623ced">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_626a8821-79f5-c640-e9ef-fc23e501394f">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_1965e24f-cd9e-18b0-cce9-f832ceb14acb">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_c743b1d0-027b-19ce-1010-6b5eeff74913">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_56f73b15-795a-fcef-9133-74255bde9b55">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_8af3597f-7726-3184-ac74-f9ea5b7c67ca">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_020cdb83-f405-af8a-dde7-9b4d194605f2">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_aaa39b7f-9cc6-eab7-77dc-5d6b672f33a5">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_a8647591-048d-c054-c906-483f5df15390">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_a45cb89a-3183-f5e1-f7ff-6438c3b1bfef">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_71d10860-55d6-a7c6-0d75-e812c2ff57f5">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_ebe661dc-7d6f-5f45-6f57-9946ed66d09c">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_b54c79da-d25d-9ad3-113c-239d6ee9d33a">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_c8cc02a6-a146-177d-a66d-0fb699991e52">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_5dcb4afb-9b76-1742-8079-8d2c6aa13f96">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_bb08d5b8-85ba-4d16-5e3c-82cb451f3c49">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:ConformLoad rdf:about="#_4332e4e9-a0fb-4e2b-87b6-b443d9f6a293">
+    <cim:EnergyConsumer.p>0.</cim:EnergyConsumer.p>
+    <cim:EnergyConsumer.q>0.</cim:EnergyConsumer.q>
+  </cim:ConformLoad>
+  <cim:ConformLoad rdf:about="#_3bd21756-f5a7-414a-9754-0b4d9d791d11">
+    <cim:EnergyConsumer.p>0.</cim:EnergyConsumer.p>
+    <cim:EnergyConsumer.q>0.</cim:EnergyConsumer.q>
+  </cim:ConformLoad>
+  <cim:ConformLoad rdf:about="#_78c06ad8-ef12-46c5-aa66-f7e9b6255d23">
+    <cim:EnergyConsumer.p>0.</cim:EnergyConsumer.p>
+    <cim:EnergyConsumer.q>0.</cim:EnergyConsumer.q>
+  </cim:ConformLoad>
+  <cim:ConformLoad rdf:about="#_339fe864-61e7-4ad2-aeb7-dd18368dac7b">
+    <cim:EnergyConsumer.p>0.</cim:EnergyConsumer.p>
+    <cim:EnergyConsumer.q>0.</cim:EnergyConsumer.q>
+  </cim:ConformLoad>
+  <cim:ExternalNetworkInjection rdf:about="#_2680518a-61d4-4697-8a0b-d18fec9fbb66">
+    <cim:ExternalNetworkInjection.p>0.</cim:ExternalNetworkInjection.p>
+    <cim:ExternalNetworkInjection.q>0.</cim:ExternalNetworkInjection.q>
+    <cim:ExternalNetworkInjection.referencePriority>0</cim:ExternalNetworkInjection.referencePriority>
+    <cim:RegulatingCondEq.controlEnabled>true</cim:RegulatingCondEq.controlEnabled>
+  </cim:ExternalNetworkInjection>
+  <cim:RatioTapChanger rdf:about="#_de41fe9d-69fe-1917-bd3b-45c592e00329">
+    <cim:TapChanger.controlEnabled>false</cim:TapChanger.controlEnabled>
+    <cim:TapChanger.step>0.</cim:TapChanger.step>
+  </cim:RatioTapChanger>
+  <cim:RatioTapChanger rdf:about="#_328b3e7f-aa9b-b6e4-c3f5-b3c3979391f3">
+    <cim:TapChanger.controlEnabled>false</cim:TapChanger.controlEnabled>
+    <cim:TapChanger.step>0.</cim:TapChanger.step>
+  </cim:RatioTapChanger>
+  <cim:RegulatingControl rdf:about="#_dfa8dce2-8a4d-1b19-b195-ddcfc60fb5b2">
+    <cim:RegulatingControl.discrete>false</cim:RegulatingControl.discrete>
+    <cim:RegulatingControl.enabled>true</cim:RegulatingControl.enabled>
+    <cim:RegulatingControl.targetValue>10.</cim:RegulatingControl.targetValue>
+    <cim:RegulatingControl.targetValueUnitMultiplier rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#UnitMultiplier.k" />
+  </cim:RegulatingControl>
+</rdf:RDF>
