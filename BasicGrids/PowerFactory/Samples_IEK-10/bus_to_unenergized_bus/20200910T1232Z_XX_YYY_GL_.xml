@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with PowerFactory 20.0.4 (digcimdb.dll ServicePack 0) -->
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:df4f4c88-b153-4026-94a8-b66a0ea0147a">
+    <md:Model.DependentOn rdf:resource="urn:uuid:c611c973-7c9a-492f-8c49-d00afade7406" />
+    <md:Model.created>2020-09-10T12:39:40Z</md:Model.created>
+    <md:Model.modelingAuthoritySet>bus_to_unenergized_bus</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://entsoe.eu/CIM/GeographicalLocation/2/1</md:Model.profile>
+    <md:Model.scenarioTime>2020-09-10T12:32:37Z</md:Model.scenarioTime>
+  </md:FullModel>
+  <cim:CoordinateSystem rdf:ID="_0f3ae9d2-b701-14d7-0796-f5be601a0c39">
+    <cim:CoordinateSystem.crsUrn>urn:ogc:def:crs:EPSG::4326</cim:CoordinateSystem.crsUrn>
+    <cim:IdentifiedObject.name>WGS-84</cim:IdentifiedObject.name>
+  </cim:CoordinateSystem>
+</rdf:RDF>

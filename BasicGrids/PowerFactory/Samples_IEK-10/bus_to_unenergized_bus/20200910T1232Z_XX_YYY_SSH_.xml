@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with PowerFactory 20.0.4 (digcimdb.dll ServicePack 0) -->
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:a831b5a7-8bd8-49fa-9beb-3ab86270168f">
+    <md:Model.DependentOn rdf:resource="urn:uuid:c611c973-7c9a-492f-8c49-d00afade7406" />
+    <md:Model.created>2020-09-10T12:39:40Z</md:Model.created>
+    <md:Model.modelingAuthoritySet>bus_to_unenergized_bus</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://entsoe.eu/CIM/SteadyStateHypothesis/1/1</md:Model.profile>
+    <md:Model.scenarioTime>2020-09-10T12:32:37Z</md:Model.scenarioTime>
+  </md:FullModel>
+  <cim:Terminal rdf:about="#_f18ba88f-6fec-68ff-8c14-016146872499">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_2c7168f5-9e70-3147-1563-c33f035f4dba">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_71c872ae-cc0b-8efa-64a3-9d20b21fb186">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_bfe518fe-074a-aa00-4eba-398e2f0943c9">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_b0e1c659-2190-a0f1-11ef-7dc616610457">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_c7a0fb21-2e2d-1a40-730b-2910660cb7bd">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_3b3cc074-7ac3-3b37-c672-a565cb2d1564">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_e0a20a8f-8824-655d-c04e-2b5ab1637ed4">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_df3b6365-c44b-feb7-0d37-383303888e2f">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_b394eb89-cab2-d78c-2952-0684434d9587">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_6ebad088-0719-c5db-b6ca-630d718339ef">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_f260f401-d2df-fdc6-866e-368f311af48f">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_66be8dc2-b3d6-7704-3091-fc008de60f38">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_8d7de009-c9fc-b12b-3acd-05718c084aff">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_499735fd-facd-958c-a498-8685d4140e05">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_96669e97-6b76-06cc-259b-6e4571343c47">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_9e5094b4-b50e-21ea-1950-52c021a9f69a">
+    <cim:ACDCTerminal.connected>false</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_40925c27-0724-dd9c-052b-85f6c9c1c5d6">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:Terminal rdf:about="#_2c44ea47-a79c-f404-5de4-0059a3932ae4">
+    <cim:ACDCTerminal.connected>true</cim:ACDCTerminal.connected>
+  </cim:Terminal>
+  <cim:ExternalNetworkInjection rdf:about="#_1b8e1fe9-cf7e-4d4f-909d-be90e737bca6">
+    <cim:ExternalNetworkInjection.p>0.</cim:ExternalNetworkInjection.p>
+    <cim:ExternalNetworkInjection.q>0.</cim:ExternalNetworkInjection.q>
+    <cim:ExternalNetworkInjection.referencePriority>0</cim:ExternalNetworkInjection.referencePriority>
+    <cim:RegulatingCondEq.controlEnabled>true</cim:RegulatingCondEq.controlEnabled>
+  </cim:ExternalNetworkInjection>
+  <cim:RegulatingControl rdf:about="#_434bfbf5-3887-72d6-5829-6fbdc68952c8">
+    <cim:RegulatingControl.discrete>false</cim:RegulatingControl.discrete>
+    <cim:RegulatingControl.enabled>true</cim:RegulatingControl.enabled>
+    <cim:RegulatingControl.targetValue>10.</cim:RegulatingControl.targetValue>
+    <cim:RegulatingControl.targetValueUnitMultiplier rdf:resource="http://iec.ch/TC57/2013/CIM-schema-cim16#UnitMultiplier.k" />
+  </cim:RegulatingControl>
+</rdf:RDF>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with PowerFactory 20.0.4 (digcimdb.dll ServicePack 0) -->
+<rdf:RDF xmlns:cim="http://iec.ch/TC57/2013/CIM-schema-cim16#" xmlns:entsoe="http://entsoe.eu/CIM/SchemaExtension/3/1#" xmlns:md="http://iec.ch/TC57/61970-552/ModelDescription/1#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <md:FullModel rdf:about="urn:uuid:7e093f52-dbd8-4fe3-9c1f-da49278fdd86">
+    <md:Model.DependentOn rdf:resource="urn:uuid:699a9e86-ad46-4bd8-823f-5929c9196b05" />
+    <md:Model.created>2020-09-08T14:25:14Z</md:Model.created>
+    <md:Model.modelingAuthoritySet>transformer_vector_group</md:Model.modelingAuthoritySet>
+    <md:Model.profile>http://entsoe.eu/CIM/GeographicalLocation/2/1</md:Model.profile>
+    <md:Model.scenarioTime>2020-09-08T13:59:07Z</md:Model.scenarioTime>
+  </md:FullModel>
+  <cim:CoordinateSystem rdf:ID="_fb5b93d6-ed83-07b8-9591-4b40a8c3f55b">
+    <cim:CoordinateSystem.crsUrn>urn:ogc:def:crs:EPSG::4326</cim:CoordinateSystem.crsUrn>
+    <cim:IdentifiedObject.name>WGS-84</cim:IdentifiedObject.name>
+  </cim:CoordinateSystem>
+</rdf:RDF>
